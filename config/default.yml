@@ -7,7 +7,7 @@ application:
   favicon: favicon_js.ico
   numberOfRandomFakeUsers: 0
   showChallengeSolvedNotifications: true
-  showChallengeHints: true
+  showChallengeHints: false
   showVersionNumber: true
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   gitHubRibbon: true
